@@ -14,12 +14,13 @@ import day8
 import day9
 import day10
 import day11
+import day12
 import smaps_reader
 
 
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print(day11.part2("data/input11"))
+    print(day12.part2("data/input12"))
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
