@@ -18,9 +18,10 @@ import day12
 import day13
 import day14
 import day15
+import day16
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print(day15.part2("data/input15"))
+    print(day16.part1("data/input16"))
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
